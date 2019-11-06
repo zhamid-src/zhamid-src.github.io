@@ -1,0 +1,27 @@
+- links:
+    - name: Home
+      link: /
+    - name: Blog
+      link: /blog/
+    - name: Contact
+      link: /contact
+- links:
+    - name: Facebook
+      link: 'https://facebook.com/zeehamid4'
+      new_window: true
+      social_icon: Facebook
+    - name: Twitter
+      link: 'https://twitter.com/zeehamid4'
+      social_icon: Twitter
+      new_window: true
+    - name: Instagram
+      link: 'https://instagram.com/zeehamid4'
+      social_icon: Instagram
+      new_window: true
+- links:
+    - name: Town of Milton
+      link: 'http://www.milton.ca'
+      new_window: true
+    - name: Region of Halton
+      link: 'http://www.halton.ca'
+      new_window: true

@@ -18,19 +18,19 @@ Budget Chair, Councillor Mike Cluett
 
 The budget spends $78M in capital projects, the majorty of these in roads based on the feedback from residents. This includes roadway expansions such as Thompson Road (Britannia Road to Louis St. Laurent Avenue), Louis St. Laurent Avenue (Fourth Line to James Snow Parkway), Fifth Line (Hwy 401 to Derry Road) and Bronte Street (Main Street to Steeles Avenue). Increased funding will go towards maintenance and rehabilitation of existing roadways.
 
-> I’m greatly encouraged that council withstood the temptation to dip further into  reserves as a method of funding operating costs
+> "I’m greatly encouraged that council withstood the temptation to dip further into  reserves as a method of funding operating costs."  
 Ward 3 Councillor Rick Di Lorenzo
 
 In 2020, a fifth Fire Station is planned to open near Regional Road 25 and Louis St. Laurent and the Sherwood Community Centre will celebrate its first full year of operation. These new facilities help to maintain and deliver important services to Milton’s growing community. Based on the Youth Strategy recommendations, approved in 2019, the Town will also implement a pilot project in 2020 focusing on youth-specific spaces and programming at facilities.
 
-> Milton is a great place to live. This budget maintains our tax advantage while protecting services our residents have come to rely on.
+> "Milton is a great place to live. This budget maintains our tax advantage while protecting services our residents have come to rely on."  
 Councillor Zeeshan Hamid
 
 In addition to protecting key services, the council also supported Councillor Sameera Ali's motion to bring forward Bowes Neighbourhood Community Park in ward 4 by 4 years and Councillor Zeeshan Hamid's motion to add windrow cleaning for all seniors and people of disability who were on the long wating list. Councillor Hamid's motion of not cutting tree plantings down by 300 (from 750) was also supported. 
 
 At the end, the budget did not receive the approval of Mayor Krantz and Councillors Best and Malbeouf, who all wanted to see further cuts to bring the local share down from 5.63% to 5%. "That represents less than a dollar a month", said Councillor Hamid, voicing his concern that "bringing the rate down to that level requires cutting Saturday transit and the community fund, or cutting the Moffat park redevelopment completely. How can you tell people they don't get the services they rely on to save less than a buck."  Councillor Sameera Ali expressed her satisfaction that the budget supported significant infrastructure programs. 
 
-> I am happy that we are moving forward with a budget that brings us closer to filling the growth and infrastructure gap
+> "I am happy that we are moving forward with a budget that brings us closer to filling the growth and infrastructure gap."  
 Councillor Sameera Ali
 
 The final budget passed with a vote of 6-3. For the average single detached home in Milton, the Town’s 2020 budget will result in an additional $88.21 per year ($7.35 per month). 

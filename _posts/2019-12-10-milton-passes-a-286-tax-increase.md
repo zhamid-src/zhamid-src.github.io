@@ -28,7 +28,7 @@ Councillor Zeeshan Hamid
 
 In addition to protecting key services, the council also supported Councillor Sameera Ali's motion to bring forward Bowes Neighbourhood Community Park in ward 4 by 4 years and Councillor Zeeshan Hamid's motion to add windrow cleaning for all seniors and people of disability who were on the long wating list. Councillor Hamid's motion of not cutting tree plantings down by 300 (from 750) was also supported. 
 
-At the end, the budget did not receive the approval of Mayor Krantz and Councillors Best and Malbeouf, who all wanted to see further cuts to bring the local share down from 5.63% to 5%. "That represents less than a dollar a month", said Councillor Hamid, voicing his concern that "bringing the rate down to that level requires cutting Saturday transit and the community fund, or cutting the Moffat park redevelopment completely. How can you tell people they don't get the services they rely on to save less than a buck."  
+At the end, the budget did not receive the approval of Mayor Krantz and Councillors Best and Malbeouf, who all wanted to see further cuts to bring the local share down from 5.63% to 5%. "That represents less than a dollar a month", said Councillor Hamid, voicing his concern that "bringing the rate down to that level requires cutting Saturday transit and the community fund, or cutting the Moffat park redevelopment completely. How can you tell people they don't get the services they rely on to save less than a buck."  Councillor Sameera Ali expressed her satisfaction that the budget supported significant infrastructure programs. 
 
 > I am happy that we are moving forward with a budget that brings us closer to filling the growth and infrastructure gap
 Councillor Sameera Ali

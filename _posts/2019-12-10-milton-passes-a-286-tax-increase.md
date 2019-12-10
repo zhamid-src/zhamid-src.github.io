@@ -30,6 +30,9 @@ In addition to protecting key services, the council also supported Councillor Sa
 
 At the end, the budget did not receive the approval of Mayor Krantz and Councillors Best and Malbeouf, who all wanted to see further cuts to bring the local share down from 5.63% to 5%. "That represents less than a dollar a month", said Councillor Hamid, voicing his concern that "bringing the rate down to that level requires cutting Saturday transit and the community fund, or cutting the Moffat park redevelopment completely. How can you tell people they don't get the services they rely on to save less than a buck."  
 
+> I am happy that we are moving forward with a budget that brings us closer to filling the growth and infrastructure gap
+Councillor Sameera Ali
+
 The final budget passed with a vote of 6-3. For the average single detached home in Milton, the Town’s 2020 budget will result in an additional $88.21 per year ($7.35 per month). 
 
 Thoughts? Let me know: [zee.hamid@milton.ca](mailto:zee.hamid@milton.ca).

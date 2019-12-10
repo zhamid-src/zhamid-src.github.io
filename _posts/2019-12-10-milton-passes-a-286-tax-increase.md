@@ -11,9 +11,9 @@ date: 2019-12-10 17:00:00
 The Town of Milton continues to be the lowest-taxed jurisdiction, with property taxes well below other municipalities in the surrounding area. 
 ![Milton's rate compared to other municipalities](https://i.ibb.co/QD6nYTQ/ELc-YTz-DW4-AAUGGa.png)
 
-Facing a challenging budget, the council passed an **overall tax increase of 2.83%** based on Milton's budget increase of 5.63%. This allowed the council to reverse cuts to tree plantings, delays in park construction, protect the community fund and save Saturday transit. The budget also continues to set aside money for infrastructure reserves.
+Facing a challenging budget, the council passed an **overall tax increase of 2.86%** based on Milton's budget increase of 5.63%. This allowed the council to reverse cuts to tree plantings, delays in park construction, protect the community fund and save Saturday transit. The budget also continues to set aside money for infrastructure reserves.
 
-> "This budget makes important investments in both services and infrastructure in our community"
+> "This budget makes important investments in both services and infrastructure in our community."   
 Budget Chair, Councillor Mike Cluett
 
 The budget spends $78M in capital projects, the majorty of these in roads based on the feedback from residents. This includes roadway expansions such as Thompson Road (Britannia Road to Louis St. Laurent Avenue), Louis St. Laurent Avenue (Fourth Line to James Snow Parkway), Fifth Line (Hwy 401 to Derry Road) and Bronte Street (Main Street to Steeles Avenue). Increased funding will go towards maintenance and rehabilitation of existing roadways.

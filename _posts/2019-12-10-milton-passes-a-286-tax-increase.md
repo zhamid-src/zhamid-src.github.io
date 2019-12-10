@@ -26,7 +26,7 @@ In 2020, a fifth Fire Station is planned to open near Regional Road 25 and Louis
 > Milton is a great place to live. This budget maintains our tax advantage while protecting services our residents have come to rely on.
 Councillor Zeeshan Hamid
 
-In addition to protecting key services, the council also supported Councillor Sameera Ali's motion to bring forward Bowes Neighbourhood Community Park in ward 4 by 4 years and Councillor Zeeshan Hamid's motion to add windrow cleaning for all seniors and people of disability who were on the long wating list. 
+In addition to protecting key services, the council also supported Councillor Sameera Ali's motion to bring forward Bowes Neighbourhood Community Park in ward 4 by 4 years and Councillor Zeeshan Hamid's motion to add windrow cleaning for all seniors and people of disability who were on the long wating list. Councillor Hamid's motion of not cutting tree plantings down by 300 (from 750) was also supported. 
 
 At the end, the budget did not receive the approval of Mayor Krantz and Councillors Best and Malbeouf, who all wanted to see further cuts to bring the local share down from 5.63% to 5%. "That represents less than a dollar a month", said Councillor Hamid, voicing his concern that "bringing the rate down to that level requires cutting Saturday transit and the community fund, or cutting the Moffat park redevelopment completely. How can you tell people they don't get the services they rely on to save less than a buck."  
 

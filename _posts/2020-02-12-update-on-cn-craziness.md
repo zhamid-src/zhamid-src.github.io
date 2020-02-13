@@ -12,10 +12,6 @@ date: 2020-02-12 18:00:00
 5+ years later, the fight for fairness and rules continues.
 ![Train hub](http://www.cargostar.uz/uploads/1/8/3/6/18369469/w-806-450-horni-dust-7095e_orig.jpg)
 
-5+ years later, the fight for fairness and rules continues.
-
-![Train hub](http://www.cargostar.uz/uploads/1/8/3/6/18369469/w-806-450-horni-dust-7095e_orig.jpg)
-
 If you don't have the background on the CN issue then please take a look at [this old blog post](https://zeehamid4.wordpress.com/2018/04/13/so-whats-the-issue-with-cn-anyway/) and [halton.ca/cn](halton.ca/cn) since I won't repeat the information already shared.
 
 Milton will have _30,000 people_ living within 1km of this facility, if it goes through.

@@ -5,8 +5,8 @@
     <description>Milton and Halton Councillor Zeeshan Hamid</description>
     <link>https://zeehamid.com/</link>
     <atom:link href="https://zeehamid.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Mar 2020 17:34:04 +0000</pubDate>
-    <lastBuildDate>Thu, 05 Mar 2020 17:34:04 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Mar 2020 22:38:26 +0000</pubDate>
+    <lastBuildDate>Fri, 13 Mar 2020 22:38:26 +0000</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
     
       <item>
@@ -93,6 +93,98 @@ Fever (87.9%), dry coughing (67.7%), fatigue (38.1%), sputum production (33.4%),
         <pubDate>Thu, 05 Mar 2020 13:40:00 +0000</pubDate>
         <link>https://zeehamid.com/2020/03/05/some-coronavirus-tips.html</link>
         <guid isPermaLink="true">https://zeehamid.com/2020/03/05/some-coronavirus-tips.html</guid>
+        
+        
+        <category>covid-19</category>
+        
+        <category>coronavirus</category>
+        
+      </item>
+    
+      <item>
+        <title>Some Coronavirus Tips</title>
+        <description>&lt;p&gt;This is me writing as an individual and not on behalf of any organization.&lt;/p&gt;
+
+&lt;p&gt;Globally, ~3.4% of reported cases of coronavirus end up in fatality. The number for seasonal flu is &amp;lt; 1% (1). That said, the death rate is high for 85+, it’s actually quite low for people under 40. (2)&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;AGE&lt;/th&gt;
+      &lt;th&gt;Death Rate&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;80+ years old&lt;/td&gt;
+      &lt;td&gt;14.8%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;70-79 years old&lt;/td&gt;
+      &lt;td&gt;8.0%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;60-69 years old&lt;/td&gt;
+      &lt;td&gt;3.6%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;50-59 years old&lt;/td&gt;
+      &lt;td&gt;1.3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;40-49 years old&lt;/td&gt;
+      &lt;td&gt;0.4%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;30-39 years old&lt;/td&gt;
+      &lt;td&gt;0.2%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;20-29 years old&lt;/td&gt;
+      &lt;td&gt;0.2%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;10-19 years old&lt;/td&gt;
+      &lt;td&gt;0.2%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;0-9 years old&lt;/td&gt;
+      &lt;td&gt;no fatalities&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;One problem with coronavirus is that it’s more infectious than flu and now scientists say that it might have mutated into a more aggressive form (3)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;IT’S NOT A REASON TO PANIC&lt;/strong&gt;, here are some helpful tips (summary: disinfect your phone, don’t touch your face, wash hands often, esp. after every outing) :-&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Today at an event some people bumped fists instead of shaking hands. That’s actually a good idea.&lt;/li&gt;
+  &lt;li&gt;Avoid touching your face&lt;/li&gt;
+  &lt;li&gt;Wash your hands often, especially before eating / touching your face.&lt;/li&gt;
+  &lt;li&gt;The virus can live up to 96 hours on phone screens (4)&lt;/li&gt;
+  &lt;li&gt;Carry disinfectant. Use it.&lt;/li&gt;
+  &lt;li&gt;Keep disinfectant in your home, esp. near the entrance. Have people use it as they enter (better to actually wash hands with soap)&lt;/li&gt;
+  &lt;li&gt;Cough into your elbow&lt;/li&gt;
+  &lt;li&gt;Avoid poorly ventilated places (5)&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;DO NOT GO OUT TO BUY FACE MASKS&lt;/em&gt;. If you have extra ones, consider donating. They won’t help you if you aren’t already infected.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Typical symptoms:&lt;/strong&gt;
+Fever (87.9%), dry coughing (67.7%), fatigue (38.1%), sputum production (33.4%), shortness of breath (18.6%), sore throat (13.9%), headache (13.6%), joint pain (14.8%), chills (11.4%). Full list: &lt;a href=&quot;https://wwwnc.cdc.gov/eid/article/26/6/20-0452-f1?fbclid=IwAR2_iYNoKa4JxHdiBESJ757PvBiqi6S_YshrBc2b-nImHDQ5Ym3LXkZxxbE&quot;&gt;https://wwwnc.cdc.gov/eid/article/26/6/20-0452-f1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Take proper precautions and don’t panic. Feel free to share this information with others. For nerds among us, here’s the full WHO report: &lt;a href=&quot;https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf?fbclid=IwAR2VrTIln6JyG8OYe9--hg2oXBeN05r6Xmz9cp0kR4Vi6C0GTRBAVnweGJ8&quot;&gt;https://www.who.int/…/who-china-joint-mission-on-covid-19-f…&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Sources:
+1 - &lt;a href=&quot;https://mobile.twitter.com/WHO/status/1234872254883909642?fbclid=IwAR0NsLwYRGdlXsG0yI80BthWWT1u1lI1lT8vc31CtY7xUkc1Vsc-GOradvw&quot;&gt;https://mobile.twitter.com/WHO/status/1234872254883909642&lt;/a&gt;
+2 - &lt;a href=&quot;https://www.worldometers.info/coronavirus/coronavirus-age-sex-demographics/?fbclid=IwAR2bD2A2zfwsno7FjL5PY3MH8tsJM0jwhflZ8H8IuY-aB7TyRJ8YHAtrueY&quot;&gt;https://www.worldometers.info/…/coronavirus-age-sex-demogr…/&lt;/a&gt;
+3 - &lt;a href=&quot;https://www.telegraph.co.uk/science/2020/03/04/coronavirus-has-mutated-aggressive-disease-say-scientists/?fbclid=IwAR1pilLwlOMITTAeDsnmjLmHfArU5Oa8f4w9CIAqIoS3W1Kn5wF_jEikU8s&quot;&gt;https://www.telegraph.co.uk/…/coronavirus-has-mutated-aggr…/&lt;/a&gt;
+4 - &lt;a href=&quot;https://qz.com/1810508/covid-19-can-likely-live-up-to-96-hours-on-your-phone/?fbclid=IwAR0Iep4Kzh9dFTDRP6LWRyrFcqV5_NhR56Io1h42QWqFPsfq-1f_141Oh2g&quot;&gt;https://qz.com/…/covid-19-can-likely-live-up-to-96-hours-o…/&lt;/a&gt;
+5 - &lt;a href=&quot;https://www3.nhk.or.jp/nhkworld/en/news/20200302_34/?fbclid=IwAR3MiUfTD4wDaxY2pbjk5rIoDXPFq-T_I2yNzSQ7jNkdD00qGWbpLWA0MR4&quot;&gt;https://www3.nhk.or.jp/nhkworld/en/news/20200302_34/&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Mar 2020 13:40:00 +0000</pubDate>
+        <link>https://zeehamid.com/2020/03/05/coronavirus-milton-updates.html</link>
+        <guid isPermaLink="true">https://zeehamid.com/2020/03/05/coronavirus-milton-updates.html</guid>
         
         
         <category>covid-19</category>

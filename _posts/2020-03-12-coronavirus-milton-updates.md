@@ -1,5 +1,5 @@
 ---
-title: List of helpful links + cancellations
+title: Coronavirus Milton Updates
 categories:
   - covid-19
   - coronavirus

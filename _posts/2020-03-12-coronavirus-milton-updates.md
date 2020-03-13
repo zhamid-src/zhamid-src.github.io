@@ -17,7 +17,7 @@ If you develop symptoms (fever or cough or breathing difficulty), please contact
 Stay up to date:
 
 - Town of Milton [https://www.milton.ca/en/living-in-milton/covid-19-coronavirus.aspx](https://www.milton.ca/en/living-in-milton/covid-19-coronavirus.aspx)
-- Halton Region [halton.ca/coronavirus](halton.ca/coronavirus)
+- Halton Region [halton.ca/coronavirus](https://www.halton.ca/For-Residents/Immunizations-Preventable-Disease/Diseases-Infections/New-Coronavirus)
 - Government of Ontario [https://www.ontario.ca/page/2019-novel-coronavirus-2019-ncov](https://www.ontario.ca/page/2019-novel-coronavirus-2019-ncov)
 - Public Health Agency of Canada [https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
 - World Health Organization [https://www.who.int/](https://www.who.int/)
